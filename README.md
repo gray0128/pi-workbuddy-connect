@@ -6,11 +6,12 @@
 
 前置条件：本机已安装并登录 WorkBuddy（国内版）或 WorkBuddy AI（国际版）桌面应用。扩展直接读取 App 的登录状态，账号切换自动跟随。
 
-从本地目录安装（开发时可用 `-e` 临时加载）：
-
 ```sh
+# 从 GitHub 安装
+pi install git:github.com/gray0128/pi-workbuddy-connect
+
+# 本地开发时从目录安装，或只对本次运行生效
 pi install /path/to/pi-workbuddy-connect
-# 或只对本次运行生效
 pi -e /path/to/pi-workbuddy-connect
 ```
 
