@@ -2,6 +2,15 @@
   "name": "pi-workbuddy-connect",
   "version": "0.1.0",
   "description": "Bring WorkBuddy desktop app models into Pi — reuse the app's sign-in, with no extra configuration.",
+  "author": "gray0128",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray0128/pi-workbuddy-connect.git"
+  },
+  "homepage": "https://github.com/gray0128/pi-workbuddy-connect#readme",
+  "bugs": {
+    "url": "https://github.com/gray0128/pi-workbuddy-connect/issues"
+  },
   "keywords": [
     "pi-package",
     "pi-extension",
